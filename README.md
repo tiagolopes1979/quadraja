@@ -1,4 +1,12 @@
-# QuadraJá — Agendamento de Quadra de Futebol
+# QuadraJá — Agendamento de Quadra de Futebol ⚽
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
+![Express](https://img.shields.io/badge/Express-4-000000?logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+![Tailwind](https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss)
+![JWT](https://img.shields.io/badge/auth-JWT-000000?logo=jsonwebtokens)
+![Testes](https://img.shields.io/badge/testes-23%20✓-success)
+![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 Sistema web full-stack para reserva de horários de quadra, com **layout moderno
 e responsivo** (tema "clean esportivo" verde/escuro). Cliente reserva horários e
